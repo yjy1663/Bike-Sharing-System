@@ -1,0 +1,16 @@
+{
+  "name": "bike-sharing-system",
+  "version": "1.0.0",
+  "description": "bike-sharing-system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiyang Yan, Sicong Liu, Yue Ding",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "kafka-node": "^1.6.2",
+    "socket.io": "^2.0.1"
+  }
+}
